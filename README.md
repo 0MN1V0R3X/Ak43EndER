@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ak43EndER
-- 👀 I’m interested in Game Designing
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me 
+- 👀 I’m interested in evrything
+- 🌱 I’m currently learning something
+- 💞️ I’m looking to collaborate on cyberwarfare
+- 📫 How to reach me will see! 
 
 
 <!---
