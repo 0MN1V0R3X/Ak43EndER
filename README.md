@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ak43EndER
+- 👋 Hi, I’m MetaSynth
 - 👀 I’m interested in evrything
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on cyberwarfare
