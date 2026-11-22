@@ -1,8 +1,8 @@
-- 👋 Hi, I’m MetaSynth
-- 👀 I’m interested in evrything
+- 👋 Hi, I’m @MetaSynth
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on cyberwarfare
-- 📫 How to reach me will see! 
+- 💞️ I’m looking to collaborate on cyber warfare
+- 📫 How to reach me:will see! 
 
 
 <!---
